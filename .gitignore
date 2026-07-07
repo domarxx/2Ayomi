@@ -14,3 +14,11 @@ local.properties
 
 # macOS specific files
 .DS_Store
+
+# Antigravity Agent Spec-Kit
+.spec-kit/
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
